@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tetris-game/static/css/main.ef3cd83a.css",
+    "main.js": "/tetris-game/static/js/main.f5ebd0e7.js",
+    "static/media/bg.jpg": "/tetris-game/static/media/bg.f4102021562184c46a4b.jpg",
+    "static/media/Pixel-LCD-7.woff": "/tetris-game/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
+    "index.html": "/tetris-game/index.html",
+    "main.ef3cd83a.css.map": "/tetris-game/static/css/main.ef3cd83a.css.map",
+    "main.f5ebd0e7.js.map": "/tetris-game/static/js/main.f5ebd0e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef3cd83a.css",
+    "static/js/main.f5ebd0e7.js"
+  ]
+}
